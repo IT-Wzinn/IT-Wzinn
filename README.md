@@ -1,24 +1,4 @@
-Analysis of GitHub User "Lư Quốc Vinh":
-1. Overall Activity and Skill Set:
-   - The user, Lư Quốc Vinh, seems relatively active on GitHub with 34 total commits and 4 public repositories.
-   - Based on the repositories they have created, such as "Python" for learning Python and "C-" for learning C++, they display an interest in programming languages.
-   - Their location in Vietnam might suggest a focus on programming education or self-improvement in the field.
 
-2. Coding Habits:
-   - The user's most frequently used languages include Python and C++, as indicated by the languages used in their repositories.
-   - Although the number of public repositories is limited, their consistent commit activity demonstrates a dedication to coding and learning multiple languages.
-
-3. Project Contributions:
-   - Lư Quốc Vinh has contributed to 1 repository, showcasing a willingness to collaborate on projects.
-   - Their involvement in projects like "Git & Github" and "Learning Language Programing C++" highlights a desire to expand their programming knowledge and skills.
-
-4. GitHub Presence:
-   - With only 2 followers and limited social media presence, Lư Quốc Vinh may be relatively new to GitHub or less active in networking within the platform.
-   - However, their activity in creating repositories and commits, as well as their contributions to existing projects, demonstrate a proactive approach to learning and engaging with the GitHub community.
-
-In conclusion, Lư Quốc Vinh shows a proactive approach to learning programming languages like Python and C++ through personal projects on GitHub. Their consistent commit activity and contributions to projects reflect a dedicated effort to improve their coding skills and engage with the programming community. Although their GitHub presence may be currently limited, their enthusiasm for programming education and self-improvement is evident in their activity on the platform.
-
-You can find Lư Quốc Vinh's GitHub profile [here](https://github.com/IT-Wzinn) and explore some of their repositories such as [Python](https://github.com/IT-Wzinn/Python) and [C-](https://github.com/IT-Wzinn/C-).
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/hBpbGhYf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quoc.vinh.785347) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/l19_wzinn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lu-quoc-vinh-25271b353/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Disastrous_Plum_5842/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28615717/qu%e1%bb%91c-vinh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@xyz.wzi) 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
