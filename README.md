@@ -46,8 +46,8 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT-Wzinn">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT-Wzinn&theme=great_gatsby" alt="Repos per Language"/>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Wzinn">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Wzinn&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFC107&icon_color=FFD700" alt="Top Languages"/>
       </a>
     </td>
     <td width="50%">
