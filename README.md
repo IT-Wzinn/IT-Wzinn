@@ -7,65 +7,74 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-📈 User Statistics :
+## 📊 GitHub Analytics
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=IT-Wzinn">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=IT-Wzinn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT-Wzinn">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT-Wzinn&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=IT-Wzinn">
-          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=IT-Wzinn&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody>
+---
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=IT-Wzinn">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT-Wzinn&background=0D1117&border=FFD700&ring=FFD700&fire=FFC107&currStreakLabel=FFD700&currStreakNum=FFFFFF&sideNums=FFD700&sideLabels=FFC107&dates=8B949E&stroke=FFD700&hide_border=false" alt="GitHub Streak Stats"/>
+  </a>
+</div>
+
+<br>
+
+### 👤 Profile Overview
+
+<div align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT-Wzinn">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT-Wzinn&theme=great_gatsby" alt="Profile Summary"/>
+  </a>
+</div>
+
+<br>
+
+### 📅 Activity Overview
+
+<div align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=IT-Wzinn">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IT-Wzinn&bg_color=0D1117&color=FFD700&line=FFC107&point=FFFFFF&area_color=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
+  </a>
+</div>
+
+<br>
+
+### 🧬 Language & Commit Breakdown
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT-Wzinn">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT-Wzinn&theme=great_gatsby" alt="Repos per Language"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT-Wzinn">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT-Wzinn&theme=great_gatsby" alt="Most Commit Language"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT-Wzinn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT-Wzinn&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT-Wzinn&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT-Wzinn&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT-Wzinn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT-Wzinn&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IT-Wzinn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IT-Wzinn&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<br>
+
+### 📈 Stats & Productivity Pattern
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT-Wzinn">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT-Wzinn&theme=great_gatsby" alt="Stats Card"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IT-Wzinn">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IT-Wzinn&theme=great_gatsby" alt="Productive Time"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
+---
